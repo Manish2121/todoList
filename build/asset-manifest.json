@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/todoList/static/css/main.54b59bc3.css",
+    "main.js": "/todoList/static/js/main.71b59d1e.js",
+    "static/js/787.b1394129.chunk.js": "/todoList/static/js/787.b1394129.chunk.js",
+    "static/media/angry-birds.gif": "/todoList/static/media/angry-birds.12ed75345f829e47d028.gif",
+    "static/media/anrgy-bird-red.gif": "/todoList/static/media/anrgy-bird-red.c6ff7d8b69c208aaf7f0.gif",
+    "index.html": "/todoList/index.html",
+    "main.54b59bc3.css.map": "/todoList/static/css/main.54b59bc3.css.map",
+    "main.71b59d1e.js.map": "/todoList/static/js/main.71b59d1e.js.map",
+    "787.b1394129.chunk.js.map": "/todoList/static/js/787.b1394129.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.54b59bc3.css",
+    "static/js/main.71b59d1e.js"
+  ]
+}
